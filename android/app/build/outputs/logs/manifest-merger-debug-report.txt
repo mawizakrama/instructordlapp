@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:1:1-29:12
+MERGED from [:react-native-vector-icons] C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\7f324b19e515b7a891ce700ada91105e\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9ec3257bebf11419d83cff8453b9291d\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-maps] C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5ce68f013a67fa4f8e786a5b670306b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\23425ea848288a44f2ab452d284f7f58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\098e6f27b8de288b5d51840a77e294d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\50b57e33160d9abe073be1de9c6a3caa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\30a7c9c370f96e656d25811155a56a16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c7cdf613680720c6b6279d56a8a0ec2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\24546db7536c6efe5cde4c4678f2c745\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\740ef62a1c706df3c3b131572403dd16\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\e35ac7b795b87fc60bf040eb04a1ee20\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\4a56e8a56d9d928cc20432eadc7293d1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\4390fec447c47890d62e4a21252318f8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\59508b415ade30b77ef75c55c42a6bae\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\bee21e530d2f87c0ea71327422fdc8a1\AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\aca73ed2225073af10f8badbf7a37a55\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\3061fefcf5333f2144a4ed9b1b3e0fa5\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\134f0541660ea86fc90a0226abfd73fa\AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0cd3891c6e69f1f0ef062ecce7025a75\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bdf88630daf2a691eea532b3067a45c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\274292cc5e2aaabda330a5f67cfe9932\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\815aab51051af2e1cd22a490bc7b6a9d\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\781aa24bdd1f73d59926973149a1db0d\AndroidManifest.xml:16:1-23:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a9155b5601f46bac93660833ee93e010\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93581d2ec6d224db26cb103ef84073db\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:2:5-27
+		INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\aca73ed2225073af10f8badbf7a37a55\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\aca73ed2225073af10f8badbf7a37a55\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\7f324b19e515b7a891ce700ada91105e\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\7f324b19e515b7a891ce700ada91105e\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\7f324b19e515b7a891ce700ada91105e\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\7f324b19e515b7a891ce700ada91105e\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\59508b415ade30b77ef75c55c42a6bae\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\59508b415ade30b77ef75c55c42a6bae\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\bee21e530d2f87c0ea71327422fdc8a1\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\bee21e530d2f87c0ea71327422fdc8a1\AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\aca73ed2225073af10f8badbf7a37a55\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\aca73ed2225073af10f8badbf7a37a55\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\3061fefcf5333f2144a4ed9b1b3e0fa5\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\3061fefcf5333f2144a4ed9b1b3e0fa5\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\134f0541660ea86fc90a0226abfd73fa\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\134f0541660ea86fc90a0226abfd73fa\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\815aab51051af2e1cd22a490bc7b6a9d\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\815aab51051af2e1cd22a490bc7b6a9d\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\781aa24bdd1f73d59926973149a1db0d\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\781aa24bdd1f73d59926973149a1db0d\AndroidManifest.xml:19:5-21:19
+	android:label
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.kaizenui.MainActivity
+ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:23:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:24:7-26:63
+	android:value
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:26:6-61
+	android:name
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:25:6-51
+uses-sdk
+INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\7f324b19e515b7a891ce700ada91105e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\7f324b19e515b7a891ce700ada91105e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9ec3257bebf11419d83cff8453b9291d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9ec3257bebf11419d83cff8453b9291d\AndroidManifest.xml:20:5-44
+MERGED from [:react-native-maps] C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5ce68f013a67fa4f8e786a5b670306b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5ce68f013a67fa4f8e786a5b670306b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\23425ea848288a44f2ab452d284f7f58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\23425ea848288a44f2ab452d284f7f58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\098e6f27b8de288b5d51840a77e294d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\098e6f27b8de288b5d51840a77e294d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\50b57e33160d9abe073be1de9c6a3caa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\50b57e33160d9abe073be1de9c6a3caa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\30a7c9c370f96e656d25811155a56a16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\30a7c9c370f96e656d25811155a56a16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c7cdf613680720c6b6279d56a8a0ec2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c7cdf613680720c6b6279d56a8a0ec2d\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\24546db7536c6efe5cde4c4678f2c745\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\24546db7536c6efe5cde4c4678f2c745\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\740ef62a1c706df3c3b131572403dd16\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\740ef62a1c706df3c3b131572403dd16\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\e35ac7b795b87fc60bf040eb04a1ee20\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\e35ac7b795b87fc60bf040eb04a1ee20\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\4a56e8a56d9d928cc20432eadc7293d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\4a56e8a56d9d928cc20432eadc7293d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\4390fec447c47890d62e4a21252318f8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\4390fec447c47890d62e4a21252318f8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\59508b415ade30b77ef75c55c42a6bae\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\59508b415ade30b77ef75c55c42a6bae\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\aca73ed2225073af10f8badbf7a37a55\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\aca73ed2225073af10f8badbf7a37a55\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\3061fefcf5333f2144a4ed9b1b3e0fa5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\3061fefcf5333f2144a4ed9b1b3e0fa5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\134f0541660ea86fc90a0226abfd73fa\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\134f0541660ea86fc90a0226abfd73fa\AndroidManifest.xml:5:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0cd3891c6e69f1f0ef062ecce7025a75\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0cd3891c6e69f1f0ef062ecce7025a75\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bdf88630daf2a691eea532b3067a45c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bdf88630daf2a691eea532b3067a45c3\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\274292cc5e2aaabda330a5f67cfe9932\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\274292cc5e2aaabda330a5f67cfe9932\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\815aab51051af2e1cd22a490bc7b6a9d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\815aab51051af2e1cd22a490bc7b6a9d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\781aa24bdd1f73d59926973149a1db0d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\781aa24bdd1f73d59926973149a1db0d\AndroidManifest.xml:17:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a9155b5601f46bac93660833ee93e010\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a9155b5601f46bac93660833ee93e010\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93581d2ec6d224db26cb103ef84073db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93581d2ec6d224db26cb103ef84073db\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Mawiz pc\Desktop\University\FYP\instructor\KaizenUI\android\app\src\main\AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\aca73ed2225073af10f8badbf7a37a55\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\aca73ed2225073af10f8badbf7a37a55\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\aca73ed2225073af10f8badbf7a37a55\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\aca73ed2225073af10f8badbf7a37a55\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\aca73ed2225073af10f8badbf7a37a55\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\3061fefcf5333f2144a4ed9b1b3e0fa5\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\3061fefcf5333f2144a4ed9b1b3e0fa5\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\3061fefcf5333f2144a4ed9b1b3e0fa5\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\3061fefcf5333f2144a4ed9b1b3e0fa5\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\134f0541660ea86fc90a0226abfd73fa\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\781aa24bdd1f73d59926973149a1db0d\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\781aa24bdd1f73d59926973149a1db0d\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\134f0541660ea86fc90a0226abfd73fa\AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mawiz pc\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\134f0541660ea86fc90a0226abfd73fa\AndroidManifest.xml:9:13-58
