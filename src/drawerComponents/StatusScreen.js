@@ -5,7 +5,8 @@ import {
   TouchableOpacity,
   ScrollView,
   AsyncStorage,
-  ActivityIndicator
+  ActivityIndicator,
+  StyleSheet
 } from "react-native";
 import {
   Container,
@@ -64,7 +65,7 @@ class StatusScreen extends React.Component {
       );
     }
     return (
-      <View>
+      <View style={{ flex: 1 }}>
         <Header style={{ backgroundColor: "#85B8BA" }}>
           <Left>
             <TouchableOpacity
@@ -107,12 +108,30 @@ class StatusScreen extends React.Component {
             </Text>
           </Body>
         </CardItem>
-        <TouchableOpacity onPress={this.logout}>
-          <Text>Logout</Text>
+        <TouchableOpacity onPress={this.logout} style={styles.button}>
+          <Text style={styles.buttonText}>Logout</Text>
         </TouchableOpacity>
       </View>
     );
   }
 }
 
+const styles = StyleSheet.create({
+  button: {
+    width: 100,
+    backgroundColor: "#1c313a",
+    borderRadius: 16,
+    marginVertical: 10,
+    paddingVertical: 10,
+    position: "absolute",
+    bottom: 10
+  },
+
+  buttonText: {
+    fontSize: 17,
+    fontWeight: "500",
+    color: "#ffffff",
+    textAlign: "center"
+  }
+});
 export default StatusScreen;

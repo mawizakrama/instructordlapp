@@ -12,13 +12,15 @@ import {
   Alert,
   PermissionsAndroid,
   AsyncStorage,
-  ActivityIndicator
+  ActivityIndicator,
+  Modal
 } from "react-native";
 import MapView, { Marker, MarkerAnimated } from "react-native-maps";
 import firebase from "firebase";
 import MapViewDirections from "react-native-maps-directions";
 import { Actions } from "react-native-router-flux";
 import config from "./config";
+import io from "socket.io-client";
 const GOOGLE_MAPS_APIKEY = "AIzaSyB-7IXbfGG3r7vgxlDn1jHf4FUMKHgo8ms";
 
 const origin = {
@@ -34,7 +36,6 @@ const destination = {
 class MapScreen extends React.Component {
   constructor(props) {
     super(props);
-
     this.state = {
       latitude: 24.9287285,
       longitude: 67.1125752,
@@ -48,38 +49,68 @@ class MapScreen extends React.Component {
       lng: "",
       uid: ""
     };
+    this.socket = io.connect(config.baseUrl);
   }
 
-  requestLearner = () => {
-    const that = this;
-    firebase
-      .database()
-      .ref("Learner/")
-      .on("value", data => {
-        data.forEach(function(Snapshot) {
-          var key = Snapshot.key;
-          var childData = Snapshot.val();
-          console.log(childData);
-          const { arrayMarkers } = that.state;
-          if (arrayMarkers !== undefined) {
-            arrayMarkers.push({
-              latitude: childData.latitude,
-              longitude: childData.longitude
-            });
-            that.setState({
-              arrayMarkers: arrayMarkers,
-              learnerFound: true,
-              reachedLocation: false
-            });
-          } else {
-            console.log("array value is undefined");
-          }
-        });
-      });
-  };
+  // requestLearner = () => {
+  //   const that = this;
+  //   firebase
+  //     .database()
+  //     .ref("Learner/")
+  //     .on("value", data => {
+  //       data.forEach(function(Snapshot) {
+  //         var key = Snapshot.key;
+  //         var childData = Snapshot.val();
+  //         console.log(childData);
+  //         const { arrayMarkers } = that.state;
+  //         if (arrayMarkers !== undefined) {
+  //           arrayMarkers.push({
+  //             latitude: childData.latitude,
+  //             longitude: childData.longitude
+  //           });
+  //           that.setState({
+  //             arrayMarkers: arrayMarkers,
+  //             learnerFound: true,
+  //             reachedLocation: false
+  //           });
+  //         } else {
+  //           console.log("array value is undefined");
+  //         }
+  //       });
+  //     });
+  // };
 
   componentDidMount() {
     this.getUserId();
+    this.socket.on("newLearner", data => {
+      Alert.alert(
+        "New Ride",
+        "Name: " +
+          data.user.full_name +
+          "\nLocation: " +
+          data.user.latitude +
+          ", " +
+          data.user.longitude,
+        [
+          {
+            text: "Accept",
+            onPress: () => {
+              const dataToSendThroughSocket = {
+                historyID: data.history.id,
+                sourceLat: this.state.lat,
+                sourceLng: this.start.lng,
+                instructorID: this.state.uid,
+                status: "On Progress"
+              };
+              this.socket.emit("acceptRide", dataToSendThroughSocket);
+            }
+          },
+          {
+            text: "Cancel"
+          }
+        ]
+      );
+    });
   }
 
   updateMyLocation = () => {
@@ -95,10 +126,7 @@ class MapScreen extends React.Component {
         "Content-Type": "application/json"
       }
     })
-      .then(res => res.json())
-      .then(resJson => {
-        console.log(resJson.message);
-      })
+      .then(res => {})
       .catch(err => console.error(err));
     this.setState({ isLoading: false });
   };
@@ -214,7 +242,6 @@ class MapScreen extends React.Component {
         >
           {this.loadMarkers()}
         </MapView>
-
         {showButton}
       </View>
     );

@@ -2,11 +2,16 @@ import React, { Component } from "react";
 import { AppRegistry, View, StatusBar, StyleSheet } from "react-native";
 import * as firebase from "firebase";
 import Routes from "./src/Routes";
+import config from "./src/config";
 
 export default class App extends Component {
   static navigationOptions = {
     header: null
   };
+
+  constructor() {
+    super();
+  }
 
   componentWillMount() {
     firebase.initializeApp({
