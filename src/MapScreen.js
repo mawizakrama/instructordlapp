@@ -96,12 +96,13 @@ class MapScreen extends React.Component {
             text: "Accept",
             onPress: () => {
               const dataToSendThroughSocket = {
-                historyID: data.history.id,
+                historyID: data.history.key,
                 sourceLat: this.state.lat,
-                sourceLng: this.start.lng,
+                sourceLng: this.state.lng,
                 instructorID: this.state.uid,
                 status: "On Progress"
               };
+              console.log(data);
               this.socket.emit("acceptRide", dataToSendThroughSocket);
             }
           },
